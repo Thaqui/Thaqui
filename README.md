@@ -6,6 +6,22 @@
 I'm a passionate Data Analyst and Power BI Developer who loves turning raw data into meaningful insights and interactive dashboards. I'm currently **open to job opportunities** in Data Analytics and Business Intelligence.
 
 ---
+## 👨‍💻 Professional Background
+
+| Field | Details |
+|-------|---------|
+| **Role** | Data Analyst & Power BI Developer |
+| **Experience** | 1+ year in Data Analytics |
+| **Company** | Amazon |
+| **Education** | B.Tech Graduate |
+| **Location** | India 🇮🇳 |
+
+- 🏢 Currently working at **Amazon**, leveraging data to drive business decisions
+- 🎓 Graduated with a **B.Tech** degree
+- 📊 1+ year of hands-on experience in data analytics, reporting, and dashboard development
+- 🌱 Continuously learning and building projects to sharpen my skills
+
+---
 
 ## 🛠️ Skills & Tools
 
@@ -30,6 +46,7 @@ A comprehensive Power BI dashboard analyzing 17+ seasons of IPL cricket data —
 ---
 
 ## 📊 What I Do
+
 
 - 🔍 Transform complex data into clear, actionable insights
 - 📊 Design interactive dashboards and reports using Power BI
